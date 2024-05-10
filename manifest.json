@@ -1,0 +1,10 @@
+{
+	"id": "random-walk-note",
+	"name": "Random walk note",
+	"version": "0.1.0",
+	"minAppVersion": "0.1.12",
+	"description": "Random walk note.",
+	"author": "Jimmy Liow",
+	"authorUrl": "https://github.com/jimmyliow",
+	"isDesktopOnly": false
+}
